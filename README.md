@@ -4,8 +4,6 @@
 
 ## Preview
 
-[![Bare Preview](https://startbootstrap.com/assets/img/templates/bare.jpg)](https://blackrockdigital.github.io/startbootstrap-bare/)
-
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-bare/)**
 
 ## Status
